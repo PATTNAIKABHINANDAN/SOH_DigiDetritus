@@ -15,6 +15,6 @@ Download the APK folder to view the APK
 ## AI/ML codes
 Download the source codes for the ML model to view the codes, the codes are integrated to App APK.
 
-## Website
+## Website(SOH_WEBSITE)
 Download the source code to view the codes for the website and run the login.html file for viewing the UI of the website
 
